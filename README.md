@@ -2,6 +2,9 @@
 An Open Source Implementation of [Matt Colville](https://twitter.com/mattcolville/)'s
 Dungeons and Dragons Setting
 
+![Spinelands of Collabris Map](spinelands-hex-map.png)
+*Map of the Spinelands of Collabris*
+
 ## Disclaimer
 At the time of writing, the following project has not been officially endorsed
 by Matt Colville, nor the hundreds of people watching him on Twitch that made
@@ -32,7 +35,7 @@ adventurers, even those from
 
 This project is an attempt to convert that setting from a rock-solid PDF to
 a set of Restructured Text files that tech-savvy Dungeon Masters can more easily
-expand on and customise.
+expand on and customise. In addition to people being able to have it as a PDF.
 
 ## History
 (Most of which has been summarised from
@@ -51,7 +54,7 @@ for it and one person
 [even created authentic heraldry for all of the known factions](http://www.danconnolly.co.uk/2016/05/to-arms/).
 
 In 2018, after a successful D&D campaign set in Collabris, some jerk named Callum
-expressed interest in making Collabris more accessible.
+expressed interest in making Collabris more malliable.
 [After a moderately successful post on the `/r/mattcolville` subreddit](https://www.reddit.com/r/mattcolville/comments/8ahdol/open_sourcing_collabris/)
 asking for permission to create a GitHub repo based on the world, he decided to
 put his money where his mouth is and go for it...
