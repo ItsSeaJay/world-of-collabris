@@ -30,6 +30,7 @@ The South
 ---------
 .. toctree::
   titans-gate
+  the-ban-tuur-steppe
 
 Indices and Tables
 ==================
