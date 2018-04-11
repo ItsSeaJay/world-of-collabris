@@ -10,10 +10,11 @@ Welcome to the World of Collabris!
 The Spinelands
 ==============
 
-The Northern Kingdoms
----------------------
+The North
+---------
 .. toctree::
   korim
+  the-northern-sanction
 
 The Spine
 ---------
@@ -22,8 +23,8 @@ The Spine
    dar-daithar
    ull-vol
 
-The Southern Wilderness
------------------------
+The South
+---------
 .. toctree::
 
 Indices and Tables
