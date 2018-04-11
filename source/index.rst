@@ -11,6 +11,7 @@ Welcome to World of Collabris's documentation!
    :caption: Contents:
 
    kalazanbaar
+   dar-daithar
 
 Indices and tables
 ==================
