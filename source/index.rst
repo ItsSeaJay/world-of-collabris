@@ -31,6 +31,7 @@ The South
 .. toctree::
   titans-gate
   the-ban-tuur-steppe
+  the-veil
 
 Indices and Tables
 ==================
