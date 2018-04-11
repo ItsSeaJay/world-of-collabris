@@ -32,6 +32,7 @@ The South
   titans-gate
   the-ban-tuur-steppe
   the-veil
+  zir
 
 Indices and Tables
 ==================
