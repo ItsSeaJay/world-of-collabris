@@ -7,6 +7,8 @@
 Welcome to the World of Collabris!
 ##################################
 
+The Spinelands
+==============
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -16,7 +18,7 @@ Welcome to the World of Collabris!
    ull-vol
    korim
 
-Indices and tables
+Indices and Tables
 ==================
 
 * :ref:`genindex`
