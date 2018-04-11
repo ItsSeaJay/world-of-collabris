@@ -15,6 +15,7 @@ The North
 .. toctree::
   korim
   the-northern-sanction
+  the-burnt-hills
 
 The Broken Spine
 ----------------
