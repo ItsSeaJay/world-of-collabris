@@ -16,6 +16,7 @@ The North
   korim
   the-northern-sanction
   the-burnt-hills
+  tal-onarafel
 
 The Broken Spine
 ----------------
