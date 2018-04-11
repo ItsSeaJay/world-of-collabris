@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-##################################
-Welcome to the World of Collabris!
-##################################
+######################
+The World of Collabris
+######################
 
 The Spinelands
 ==============
@@ -26,6 +26,7 @@ The Broken Spine
 The South
 ---------
 .. toctree::
+  titans-gate
 
 Indices and Tables
 ==================
