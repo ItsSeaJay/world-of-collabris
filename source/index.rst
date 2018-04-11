@@ -16,8 +16,8 @@ The North
   korim
   the-northern-sanction
 
-The Spine
----------
+The Broken Spine
+----------------
 .. toctree::
    kalazanbaar
    dar-daithar
