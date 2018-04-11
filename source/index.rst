@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to World of Collabris's documentation!
-==============================================
+Welcome to the World of Collabris!
+==================================
 
 .. toctree::
    :maxdepth: 2
@@ -12,10 +12,3 @@ Welcome to World of Collabris's documentation!
 
    kalazanbaar
    dar-daithar
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
