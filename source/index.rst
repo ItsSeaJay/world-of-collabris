@@ -33,6 +33,7 @@ The South
   the-ban-tuur-steppe
   the-veil
   zir
+  the-scale-hills
 
 Indices and Tables
 ==================

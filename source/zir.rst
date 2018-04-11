@@ -16,7 +16,7 @@ Necromancy, because what?). Currently S’vaaj, the Snake-eater, so called becau
 of his string of military victories against the snake-men.
 
 Technologically more advanced than the Northern Sanction, the Men of Zir fashion
-elaborate clocks and time-pieces (not clockwork magics) they have accurate maps
+elaborate clocks and time-pieces (not clockwork magic) they have accurate maps
 of the stars, and their procession though the sky. The calendar of Collabris is
 the Zirathian Year. Their mathematics are far in advance of any other culture
 in Collabris, and have advanced approximation and estimation, on the cusp of
