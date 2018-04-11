@@ -10,6 +10,11 @@ The World of Collabris
 The Spinelands
 ==============
 
+Mythology
+---------
+.. toctree::
+  the-titans
+
 The North
 ---------
 .. toctree::
@@ -35,6 +40,7 @@ The South
   the-veil
   zir
   the-scale-hills
+  nara-shul
 
 Indices and Tables
 ==================
