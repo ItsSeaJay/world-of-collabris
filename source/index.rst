@@ -9,11 +9,22 @@ Welcome to the World of Collabris!
 
 The Spinelands
 ==============
+
+The Northern Kingdoms
+---------------------
+.. toctree::
+  korim
+
+The Spine
+---------
 .. toctree::
    kalazanbaar
    dar-daithar
    ull-vol
-   korim
+
+The Southern Wilderness
+-----------------------
+.. toctree::
 
 Indices and Tables
 ==================
