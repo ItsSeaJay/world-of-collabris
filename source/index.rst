@@ -10,9 +10,6 @@ Welcome to the World of Collabris!
 The Spinelands
 ==============
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
    kalazanbaar
    dar-daithar
    ull-vol
