@@ -13,3 +13,10 @@ Welcome to the World of Collabris!
    kalazanbaar
    dar-daithar
    ull-vol
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
